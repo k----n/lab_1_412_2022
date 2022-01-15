@@ -57,7 +57,8 @@ Hint - The path should look something like this:
 **How far does the laser range finder say you are from the wall? How far are you from the wall actually?**<br>
 
 4. There are 4 cubes in the center of the world making a larger single 2m x2m square<br>
-**What are the positions of each of the 4 cubes? How did you determine the positions?**<br>
+**What are the positions of each of the 4 cubes? How did you determine the positions?**<br><br>
+Hint: https://gazebosim.org/tutorials/?tut=ros_comm#RetrievingSimulationWorldandObjectProperties
 
 5. **How can you reset the turtlebot position and velocity without closing and restarting everything?**<br> Answer the question and implement a solution in `src/main.py`
 
