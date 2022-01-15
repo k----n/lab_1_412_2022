@@ -4,7 +4,7 @@ The goals of this lab are to:
 * Gain experience obtaining odometry of Turtlebot3
 * Gain experience using publishers and subscribers in Python
 
-This lab will use the ROS noetic environment and requires gazebo
+This lab will use the ROS noetic environment and requires gazebo and turtlebot3 (see below for installation instructions)
 
 ### Installing lab package
 ```
