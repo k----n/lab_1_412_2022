@@ -111,8 +111,6 @@ class OdometryReader():
 odometry = OdometryReader('/odom') # register subscriber
 odometry.unregister() # unregister subscriber when you are done
 ```
-### Launching world and turtlebot
-`roslaunch lab_1_412_2022 main.launch`
 
 ### Launching rviz to see laser
 `roslaunch lab_1_412_2022 rviz.launch`
