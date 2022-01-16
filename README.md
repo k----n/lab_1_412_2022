@@ -16,6 +16,17 @@ cd ~/catkin_ws && catkin_make
 source ~/catkin_ws/devel/setup.bash
 ```
 
+### Running code
+Launch world and turtlebot:
+```
+roslaunch lab_1_412_2022 main.launch
+```
+
+Launch `main.py`:
+```
+rosrun lab_1_412_2022 main.py
+```
+
 ### Deliverables checklist
 - [ ] `answers.md` with with screenshots from your screencast of your turtlebot for steps 1-3
 - [ ] Screencast of steps 1-3 including a view of rviz, gazebo, and terminal
