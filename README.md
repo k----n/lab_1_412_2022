@@ -1,7 +1,7 @@
 # Introduction
 The goals of this lab are to:
-* Gain experience using the laser of Turtlebot3
-* Gain experience obtaining odometry of Turtlebot3
+* Gain experience using the laser of TurtleBot3
+* Gain experience obtaining odometry of TurtleBot3
 * Gain experience using publishers and subscribers in Python
 
 This lab will use the ROS noetic environment and requires gazebo and turtlebot3 (see below for installation instructions)
