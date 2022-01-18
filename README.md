@@ -58,9 +58,7 @@ Please cite all parts of code you use from elsewhere inline with your code with 
 1. Go forward until you are 2m from the 2mx2m square and stop<br>
 **What is your position from the square?**
 
-2. Trace a path (Turn until you are aligned with the square horizontally, go forward 2m, turn until you are aligned vertically with the square, go forward 5m, turn until you are aligned with the cube horizontally, go forward 2m).
-
-You should be 1m past the square.<br><br> **According to simulation coordinates, how close are you to where you wanted to be (2m past the square)?**
+2. Trace a path (Turn until you are aligned with the square horizontally, go forward 2m, turn until you are aligned vertically with the square, go forward 5m, turn until you are aligned with the cube horizontally, go forward 2m).<br>You should be 1m past the square.<br><br> **According to simulation coordinates, how close are you to where you wanted to be (1m past the square)?**
 <br><br>
 Hint - The path should look something like this:
 <br>![image](https://user-images.githubusercontent.com/9467666/149637976-f5addfaf-0aef-4e5e-b692-89d683d85696.png)
